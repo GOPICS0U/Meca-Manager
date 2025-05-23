@@ -1,0 +1,25 @@
+{
+  "name": "bennys-manager",
+  "version": "1.0.0",
+  "description": "Bot Discord pour gérer un serveur GTARP centré sur le garage Benny's",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "gtarp",
+    "bennys",
+    "garage"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

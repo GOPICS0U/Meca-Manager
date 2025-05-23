@@ -1,0 +1,46 @@
+{
+  "token": "MTM3MzMwNDE2MjY4Njg2NTQ2MA.GxWpHy.Z2p-kqpcd60dcpceTZB2OuRa59Pna8dLPAxJZU",
+  "clientId": "1373304162686865460",
+  "mainGuildId": "1365301723375341568",
+  "autoSetupOnStartup": true,
+  "autoSetupOnJoin": true,
+  "moderationSettings": {
+    "bannedWords": ["fdp", "connard", "pute", "salope", "kys", "conne", "connasse", "sale con"],
+    "maxMessageFrequency": 5,
+    "timeWindow": 5000,
+    "autoMuteThreshold": 3
+  },
+  "colors": {
+    "primary": "#FF0000",
+    "secondary": "#FF7700",
+    "success": "#00FF00",
+    "danger": "#FF0000",
+    "info": "#0099FF"
+  },
+  "prefix": "/",
+  "owners": ["960181401318223952"],
+  "defaultEmbedFooter": "Benny's Manager | Le meilleur garage de Los Santos",
+  "autoReports": {
+    "enabled": true,
+    "daily": {
+      "enabled": false,
+      "channelId": "CHANNEL_ID_HERE",
+      "hour": 23,
+      "minute": 0
+    },
+    "weekly": {
+      "enabled": true,
+      "channelId": "CHANNEL_ID_HERE",
+      "dayOfWeek": 0,
+      "hour": 23,
+      "minute": 0
+    },
+    "monthly": {
+      "enabled": true,
+      "channelId": "CHANNEL_ID_HERE",
+      "dayOfMonth": 1,
+      "hour": 23,
+      "minute": 0
+    }
+  }
+}
